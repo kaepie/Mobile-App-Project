@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 0 64 64" style="enable-background:new 0 0 512 512" xml:space="preserve" class="">
+    <g>
+        <path fill="#f6e05c" d="M48 42v14a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V42l-6-4zm6.75 1.148a2 2 0 1 1-1.5 0L54 42z" opacity="1" data-original="#f6e05c" class=""></path>
+        <path fill="#d72332" d="M28 46.25H18a.75.75 0 0 1 0-1.5h10a.75.75 0 0 1 0 1.5z" opacity="1" data-original="#d72332"></path>
+        <path fill="#f05660" d="M60 25c0 6.627-12.536 12-28 12S4 31.627 4 25z" opacity="1" data-original="#f05660"></path>
+        <path fill="#e13c46" d="M33 36.99c15-.227 27-5.506 27-11.99H8c0 6.484 10 11.763 25 11.99z" opacity="1" data-original="#e13c46" class=""></path>
+        <path fill="#f05660" d="M32 5a15 15 0 0 1 15 15v5H17v-5A15 15 0 0 1 32 5z" opacity="1" data-original="#f05660"></path>
+        <path fill="#e13c46" d="M33 5.05c-7.816.517-12 7.003-12 14.95v5h26v-5A14.989 14.989 0 0 0 33 5.05z" opacity="1" data-original="#e13c46" class=""></path>
+        <path fill="#fff096" d="M15 21h34v4H15z" opacity="1" data-original="#fff096" class=""></path>
+        <path fill="#414650" d="M29 42h6a6 6 0 0 1 6 6v2a6 6 0 0 1-6 6 10 10 0 0 1-10-10 4 4 0 0 1 4-4zM11 56a6 6 0 0 1-6-6v-2a6 6 0 0 1 6-6h6a4 4 0 0 1 4 4 10 10 0 0 1-10 10z" opacity="1" data-original="#414650"></path>
+        <path fill="#e13c46" d="M35 43.5a4.505 4.505 0 0 1 4.5 4.5v2a4.505 4.505 0 0 1-4.5 4.5 8.51 8.51 0 0 1-8.5-8.5 2.503 2.503 0 0 1 2.5-2.5zm0-1.5h-6a4 4 0 0 0-4 4 10 10 0 0 0 10 10 6 6 0 0 0 6-6v-2a6 6 0 0 0-6-6zM17 43.5a2.503 2.503 0 0 1 2.5 2.5 8.51 8.51 0 0 1-8.5 8.5A4.505 4.505 0 0 1 6.5 50v-2a4.505 4.505 0 0 1 4.5-4.5zm0-1.5h-6a6 6 0 0 0-6 6v2a6 6 0 0 0 6 6 10 10 0 0 0 10-10 4 4 0 0 0-4-4z" opacity="1" data-original="#e13c46" class=""></path>
+        <path fill="#414650" d="M54 43.75a.75.75 0 0 1-.75-.75v-3.292a10.05 10.05 0 0 0-5.586-9.037.75.75 0 0 1 .672-1.342 11.542 11.542 0 0 1 6.414 10.379V43a.75.75 0 0 1-.75.75z" opacity="1" data-original="#414650"></path>
+        <path fill="#f6e05c" d="M17 23h32v2H17z" opacity="1" data-original="#f6e05c" class=""></path>
+    </g>
+</svg>

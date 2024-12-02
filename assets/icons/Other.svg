@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 0 24 24" style="enable-background:new 0 0 512 512" xml:space="preserve" class="">
+    <g>
+        <path fill="#4caf50" d="M12 0C5.383 0 0 5.383 0 12s5.383 12 12 12 12-5.383 12-12S18.617 0 12 0z" opacity="1" data-original="#4caf50" class=""></path>
+        <path fill="#fafafa" d="M12 14.5c-1.379 0-2.5-1.122-2.5-2.5s1.121-2.5 2.5-2.5 2.5 1.122 2.5 2.5-1.121 2.5-2.5 2.5z" opacity="1" data-original="#fafafa"></path>
+        <path fill="#429846" d="M12 0C5.383 0 0 5.383 0 12s5.383 12 12 12v-9.5c-1.379 0-2.5-1.122-2.5-2.5s1.121-2.5 2.5-2.5z" opacity="1" data-original="#429846"></path>
+        <path fill="#dadada" d="M12 9.5c-1.379 0-2.5 1.122-2.5 2.5s1.121 2.5 2.5 2.5z" opacity="1" data-original="#dadada"></path>
+        <path fill="#fafafa" d="M18.5 14.5c-1.379 0-2.5-1.122-2.5-2.5s1.121-2.5 2.5-2.5S21 10.622 21 12s-1.121 2.5-2.5 2.5z" opacity="1" data-original="#fafafa"></path>
+        <path fill="#dadada" d="M18.5 9.5c-1.379 0-2.5 1.122-2.5 2.5s1.121 2.5 2.5 2.5z" opacity="1" data-original="#dadada"></path>
+        <path fill="#fafafa" d="M5.5 14.5C4.121 14.5 3 13.378 3 12s1.121-2.5 2.5-2.5S8 10.622 8 12s-1.121 2.5-2.5 2.5z" opacity="1" data-original="#fafafa"></path>
+        <path fill="#dadada" d="M5.5 9.5C4.121 9.5 3 10.622 3 12s1.121 2.5 2.5 2.5z" opacity="1" data-original="#dadada"></path>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 0 64 64" style="enable-background:new 0 0 512 512" xml:space="preserve" class="">
+    <g>
+        <path fill="#fc8dec" d="M51.48 12.95H20.864l-9.061 3.442a5.24 5.24 0 0 0-3.38 4.9v37.467A5.24 5.24 0 0 0 13.662 64h45.02a5.24 5.24 0 0 0 5.24-5.24V21.29a5.24 5.24 0 0 0-3.38-4.9z" opacity="1" data-original="#fc8dec"></path>
+        <path fill="#9151b2" d="M47.309 8.779H16.69l-9.06 3.44a5.24 5.24 0 0 0-3.381 4.9v37.468a5.24 5.24 0 0 0 5.24 5.241h45.02a5.24 5.24 0 0 0 5.24-5.24V17.118a5.24 5.24 0 0 0-3.38-4.9z" opacity="1" data-original="#9151b2"></path>
+        <path fill="#79b6ef" d="M43.137 4.607H12.519l-9.06 3.44a5.24 5.24 0 0 0-3.381 4.9v37.468a5.24 5.24 0 0 0 5.24 5.241h45.02a5.24 5.24 0 0 0 5.24-5.24V12.946a5.24 5.24 0 0 0-3.38-4.9z" opacity="1" data-original="#79b6ef" class=""></path>
+        <path fill="#628dcd" d="M28.74 10.256v45.401h-1.831v-45.4c0-.608.411-1.091.915-1.091s.916.483.916 1.09z" opacity="1" data-original="#628dcd" class=""></path>
+        <path d="M55.575 12.953v37.468c0 2.889-2.34 5.23-5.23 5.23H27.031c4.9-4.791 12.635-14.355 14.317-28.544 1.061-9.107-.73-16.86-2.907-22.492h4.7l9.05 3.438a5.222 5.222 0 0 1 3.384 4.9z" opacity="1" fill="#00000010" data-original="#00000010"></path>
+        <g fill="#f0f0fc">
+            <circle cx="34.062" cy="48.383" r="1.96" fill="#f0f0fc" opacity="1" data-original="#f0f0fc" class=""></circle>
+            <circle cx="34.062" cy="38.294" r="1.96" fill="#f0f0fc" opacity="1" data-original="#f0f0fc" class=""></circle>
+            <circle cx="34.062" cy="28.204" r="1.96" fill="#f0f0fc" opacity="1" data-original="#f0f0fc" class=""></circle>
+        </g>
+        <path fill="#628dcd" d="M38.645 0 27.83 14.315 17.013 0z" opacity="1" data-original="#628dcd" class=""></path>
+        <g fill="#f0f0fc">
+            <path d="M20.72 18.471 12.905 5.474a2.168 2.168 0 0 1 .358-2.682L15.54.61a2.168 2.168 0 0 1 3.298.353l8.99 13.348-3.565 4.408a2.168 2.168 0 0 1-3.543-.247z" fill="#f0f0fc" opacity="1" data-original="#f0f0fc" class=""></path>
+            <path d="m34.936 18.471 7.815-12.997a2.168 2.168 0 0 0-.357-2.682L40.116.61a2.168 2.168 0 0 0-3.298.353l-8.99 13.348 3.565 4.408a2.168 2.168 0 0 0 3.543-.247z" fill="#f0f0fc" opacity="1" data-original="#f0f0fc" class=""></path>
+        </g>
+    </g>
+</svg>
